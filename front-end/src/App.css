@@ -1,0 +1,31 @@
+#root{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 15px;
+}
+.prf{
+    height: 161px;
+    width: 377px;
+    display: flex;
+    justify-content: center;
+}
+img{
+
+        width: 400px;
+        height: 271px;
+}
+.container{
+    margin: 20px;
+    width: 475px !important;
+}
+form{
+    background: #A349A4;
+    border-radius: 4px;
+    
+}
+.Register ,.Register:hover{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
+}
